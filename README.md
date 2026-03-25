@@ -2,16 +2,16 @@
 
 **Senior PHP Developer | Laravel | WordPress | APIs**
 
-[cite_start]I am a Senior PHP Developer with over 7 years of hands-on experience designing, maintaining, and modernizing backend systems in production environments[cite: 2, 4]. [cite_start]I specialize in building scalable, secure, and maintainable architectures, with deep expertise in PHP (7+ and 8+) and Laravel[cite: 5].
+I am a Senior PHP Developer with over 7 years of hands-on experience designing, maintaining, and modernizing backend systems in production environments[cite: 2, 4]. I specialize in building scalable, secure, and maintainable architectures, with deep expertise in PHP (7+ and 8+) and Laravel[cite: 5].
 
-> [cite_start]🔒 **Note on my public contributions:** A significant portion of my professional work involves proprietary intellectual property and mission-critical systems (including banking and payment integrations)[cite: 6]. Because of this, many of my daily commits and core projects are housed in private corporate repositories. 
+> 🔒 **Note on my public contributions:** A significant portion of my professional work involves proprietary intellectual property and mission-critical systems (including banking and payment integrations)[cite: 6]. Because of this, many of my daily commits and core projects are housed in private corporate repositories. 
 
 ## 🛠️ Tech Stack & Skills
-* [cite_start]**Languages:** PHP 7/8, JavaScript, TypeScript[cite: 5, 20].
-* [cite_start]**Frameworks & CMS:** Laravel, WordPress, Node.js, Angular[cite: 5, 18].
-* [cite_start]**APIs:** REST, SOAP, GraphQL[cite: 15].
-* [cite_start]**Databases:** MySQL, MongoDB[cite: 18].
-* [cite_start]**DevOps & Infra:** Docker, DDEV, Linux (CentOS), AWS, cPanel[cite: 15, 25, 30].
+* **Languages:** PHP 7/8, JavaScript, TypeScript[cite: 5, 20].
+* **Frameworks & CMS:** Laravel, WordPress, Node.js, Angular[cite: 5, 18].
+* **APIs:** REST, SOAP, GraphQL[cite: 15].
+* **Databases:** MySQL, MongoDB[cite: 18].
+* **DevOps & Infra:** Docker, DDEV, Linux (CentOS), AWS, cPanel[cite: 15, 25, 30].
 
 ---
 
@@ -56,6 +56,6 @@ To solve complex operational bottlenecks for a vehicle dispatcher business ("Des
 ---
 
 ## 📫 Let's Connect
-* [cite_start]**Location:** Brazil [cite: 3]
-* [cite_start]**LinkedIn:** [Pedro Salgado](https://www.linkedin.com/in/pedro-salgado-56069313b/) [cite: 3]
-* [cite_start]**Email:** sgpedro95@gmail.com [cite: 3]
+* **Location:** Brazil [cite: 3]
+* **LinkedIn:** [Pedro Salgado](https://www.linkedin.com/in/pedro-salgado-56069313b/) [cite: 3]
+* **Email:** sgpedro95@gmail.com [cite: 3]
